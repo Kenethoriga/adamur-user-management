@@ -30,5 +30,4 @@ This project is a backend user management system built using **Node.js**, **Grap
 - **Email Service**: Nodemailer with Gmail SMTP
 - **Testing**: Jest, Supertest
 
-## Project Structure
 
